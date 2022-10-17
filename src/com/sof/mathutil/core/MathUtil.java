@@ -50,8 +50,6 @@ public class MathUtil {
         
         //từ 21 trở đi là đoạn code dưới đây
         return n * getFactorial(n - 1);
-        
-        
     }
     
     
